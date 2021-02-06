@@ -15,7 +15,7 @@ int main() {
 	n1=n;
 	ll int pri=0;
 	
-	for(ll int i=2; i<=n/2+1; i++){
+	for(ll int i=2; i<=n; i++){
 		int flag=prime(i);
 		if(flag==1 && n1%i==0){
 			int p=dsum(i);
