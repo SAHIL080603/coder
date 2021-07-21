@@ -454,6 +454,7 @@ void Display(){
 		cout << "Better luck next time."
 			<< endl;
 	}
+	cout<<endl<<endl;
 }
 };
 
