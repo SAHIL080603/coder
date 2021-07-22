@@ -93,7 +93,7 @@ public:
     			cout<<"Correct Answer you got your desrving 1000 gold from KING :-) ...";
     		}
     		else{
-    			cout<<"Oh! NO Now you GOT a GOOD KIck from the King :-(";
+    			cout<<"Oh! NO Now you GOT a GOOD 1000 pounds KIck from the King :-(";
     		}
     	}
     	else if(r2==2){
