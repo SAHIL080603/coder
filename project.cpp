@@ -42,7 +42,7 @@ public:
     			(r4==r1)||(r4==r2)||(r4==r3)
     			);
 
-    	// cout<<r1<<endl<<r2<<endl<<r3<<endl<<r4;
+    	// cout<<r1<<" "<<r2<<" "<<r3<<" "<<r4;
 
 
 
@@ -88,7 +88,7 @@ public:
     	cin>>a;
 
     	cout<<endl<<"\t";
-    	if(r1==2){
+    	if(r1==4){
     		if(a=="p1"){
     			cout<<"Correct Answer you got your desrving 1000 gold from KING :-) ...";
     		}
@@ -96,28 +96,28 @@ public:
     			cout<<"Oh! NO Now you GOT a GOOD 1000 pounds KIck from the King :-(";
     		}
     	}
-    	else if(r2==2){
+    	else if(r2==4){
     		if(a=="p2"){
     			cout<<"Correct Answer you got your desrving 1000 gold from KING :-) ...";
     		}
     		else{
-    			cout<<"Oh! NO Now you GOT a GOOD KIck from the King :-(";
+    			cout<<"Oh! NO Now you GOT a GOOD 1000 pounds KIck from the King :-(";
     		}
     	}
-    	else if(r3==2){
+    	else if(r3==4){
     		if(a=="p3"){
     			cout<<"Correct Answer you got your desrving 1000 gold from KING :-) ...";
     		}
     		else{
-    			cout<<"Oh! NO Now you GOT a GOOD KIck from the King :-(";
+    			cout<<"Oh! NO Now you GOT a GOOD 1000 pounds KIck from the King :-(";
     		}
     	}
-    	else if(r4==2){
+    	else if(r4==4){
     		if(a=="p4"){
     			cout<<"Correct Answer you got your desrving 1000 gold from KING :-) ...";
     		}
     		else{
-    			cout<<"Oh! NO Now you GOT a GOOD KIck from the King :-(";
+    			cout<<"Oh! NO Now you GOT a GOOD 1000 pounds KIck from the King :-(";
     		}
     	}
     	cout<<endl;
