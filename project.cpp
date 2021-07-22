@@ -65,20 +65,20 @@ public:
     	}
 
     	cout<<endl<<"\t\t";
-    	if(r1==4){
-    		cout<<p1<<" you are the SOLDIER";
+    	if(r1==2){
+    		cout<<p1<<" you are the MINISTER";
     		    	cout<<endl<<"\t"<<" Guess who is the THIEF? \n\t 1.p1\t 2.p2\t 3.p3\t 4.p4";
     	}
-    	else if(r2==4){
-    		cout<<p2<<" you are the SOLDIER";
+    	else if(r2==2){
+    		cout<<p2<<" you are the MINISTER";
     		    	cout<<endl<<"\t"<<" Guess who is the THIEF? \n\t 1.p1\t 2.p2\t 3.p3\t 4.p4";
     	}
-    	else if(r3==4){
-    		cout<<p3<<" you are the SOLDIER";
+    	else if(r3==2){
+    		cout<<p3<<" you are the MINISTER";
     			    cout<<endl<<"\t"<<" Guess who is the THIEF? \n\t 1.p1\t 2.p2\t 3.p3\t 4.p4";
     	}
-    	else if(r4==4){
-    		cout<<p4<<" you are the SOLDIER";
+    	else if(r4==2){
+    		cout<<p4<<" you are the MINISTER";
 			  		cout<<endl<<"\t"<<" Guess who is the THIEF? \n\t 1.p1\t 2.p2\t 3.p3\t 4.p4";
     	}
 
