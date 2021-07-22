@@ -466,7 +466,6 @@ int main()
   	Game2 g2;
   	Question g3;
   	Game4 g4;
- 	// cout<<"Enter 1 to play soduko"<<endl;
  	system("cls");
  	cout<<"\t\t MAGICAL GAMEBOX\n";
  	do{
